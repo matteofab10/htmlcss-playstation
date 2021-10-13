@@ -74,8 +74,16 @@ header {
   margin-bottom: 50px;
 }
 
+.playstation-5-bottom {
+  margin-bottom: 20px;
+}
+
 .mf-box-ps5-small img {
-  width: 100%;
+  width: 70%;
+}
+
+.mf-border-blue:hover {
+  border-bottom: 2px solid blue;
 }
 
 
