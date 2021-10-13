@@ -28,7 +28,7 @@
 /******************* jumbo *******************/
 
 .mf-jumbotron {
-  height: 500px;
+  padding: 200px 0 50px 0;
   background-image: url(../css/img/jumbo-bg.png);
   background-size: cover;
   background-position: center;
@@ -43,7 +43,14 @@
 
 /******************* playstation-5 *******************/
 
+.playstation-5 {
+  margin-top: 30px;
+} 
 
+.mf-box-ps5 img {
+  width: 100%;
+  border-radius: 10%;
+}
 
 
 /******************* it-takes-two *******************/
