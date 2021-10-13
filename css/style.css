@@ -1,11 +1,15 @@
 /******************* header *******************/
 
+header {
+  height: 100px;
+}
 
 
 
 /******************* header-top *******************/
 
 .header-top {
+  height: 30px;
   background-color: black;
   padding-right: 10px;
 }
@@ -13,6 +17,10 @@
 
 
 /******************* header-bottom *******************/
+
+.header-bottom {
+  height: 70px;
+}
 
 .search-btn {
   font-size: 20px;
@@ -28,6 +36,7 @@
 /******************* jumbo *******************/
 
 .mf-jumbotron {
+  margin-top: 100px;
   padding: 200px 0 50px 0;
   background-image: url(../css/img/jumbo-bg.png);
   background-size: cover;
@@ -41,15 +50,32 @@
 
 
 
-/******************* playstation-5 *******************/
+/******************* playstation-5 top/center/bottom *******************/
 
-.playstation-5 {
+.playstation-5-top {
   margin-top: 30px;
+  margin-bottom: 70px;
 } 
 
 .mf-box-ps5 img {
   width: 100%;
-  border-radius: 10%;
+  border-radius: 20px;
+}
+
+.playstation-5-top h4, .playstation-5-center h4 {
+  color: grey;
+}
+
+.mf-play5-thumb {
+  width: 100%;
+}
+
+.playstation-5-center .row {
+  margin-bottom: 50px;
+}
+
+.mf-box-ps5-small img {
+  width: 100%;
 }
 
 
