@@ -27,7 +27,12 @@
 
 /******************* jumbo *******************/
 
-
+.mf-jumbotron {
+  height: 500px;
+  background-image: url(../css/img/jumbo-bg.png);
+  background-size: cover;
+  background-position: center;
+}
 
 
 
