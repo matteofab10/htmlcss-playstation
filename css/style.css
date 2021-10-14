@@ -147,7 +147,17 @@ header {
 
 /******************* playstation-sales *******************/
 
+.playstation-sales {
+  margin: 50px 0;
+}
 
+.playstation-sales h4 {
+  color: grey;
+}
+
+.mf-box-sales img {
+  width: 100%;
+}
 
 
 /******************* playstation-now *******************/
