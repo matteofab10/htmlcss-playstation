@@ -127,7 +127,22 @@ header {
 
 /******************* playstation-plus *******************/
 
+.playstation-plus {
+  background-color: #bebcbb;
+}
 
+.mf-box-plus img {
+  width: 60%;
+}
+
+.mf-box-plus-2 img {
+  width: 100%;
+}
+
+.mf-btn-plus {
+  background-color: #d9dadc;
+  color: #3167e5;
+}
 
 
 /******************* playstation-sales *******************/
