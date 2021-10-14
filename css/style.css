@@ -162,6 +162,17 @@ header {
 
 /******************* playstation-now *******************/
 
+.playstation-now {
+  background-color: #161c3b;
+}
+
+.mf-box-now img {
+  width: 60%;
+}
+
+.mf-box-now-2 img {
+  width: 100%;
+}
 
 
 
