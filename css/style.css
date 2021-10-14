@@ -89,18 +89,40 @@ header {
 
 /******************* it-takes-two *******************/
 
-
+.mf-take-two {
+  padding: 200px 0 50px 0;
+  background-image: url(../css/img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+  background-position: center;
+}
 
 
 
 /******************* nuove-uscite *******************/
 
+.nuove-uscite {
+  background-color: #1f1f1f;
+}
 
+.mf-box-games img {
+  width: 100%;
+  border-radius: 20px;
+}
 
 
 /******************* playstation-4 *******************/
 
+.playstation-4 {
+  margin: 50px 0;
+}
 
+.playstation-4 h4 {
+  color: grey;
+}
+
+.mf-box-ps4 img {
+  width: 100%;
+}
 
 
 /******************* playstation-plus *******************/
