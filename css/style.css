@@ -55,6 +55,15 @@ header {
   border-radius: 20px;
 }
 
+.mf-box-ps5:hover img {
+  border: 2px solid blue;
+}
+
+.mf-move-up:hover img {
+  transform: translate(0, -10%);
+  transition: 0.5s linear;
+}
+
 .playstation-5-top h4, .playstation-5-center h4 {
   color: grey;
 }
