@@ -236,3 +236,7 @@ footer {
 .mf-style-removed {
   list-style: none;
 }
+
+.mf-text-info {
+  color: white;
+}
