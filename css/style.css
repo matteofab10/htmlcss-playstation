@@ -4,8 +4,6 @@ header {
   height: 100px;
 }
 
-
-
 /******************* header-top *******************/
 
 .header-top {
@@ -13,8 +11,6 @@ header {
   background-color: black;
   padding-right: 10px;
 }
-
-
 
 /******************* header-bottom *******************/
 
@@ -31,8 +27,6 @@ header {
   padding-right: 15px;
 }
 
-
-
 /******************* jumbo *******************/
 
 .mf-jumbotron {
@@ -43,11 +37,7 @@ header {
   background-position: center;
 }
 
-
-
 /******************* main *******************/
-
-
 
 
 /******************* playstation-5 top/center/bottom *******************/
@@ -74,6 +64,10 @@ header {
   margin-bottom: 50px;
 }
 
+.mf-text-limits {
+  color: #3891d8;
+}
+
 .playstation-5-bottom {
   margin-bottom: 20px;
 }
@@ -96,8 +90,6 @@ header {
   background-position: center;
 }
 
-
-
 /******************* nuove-uscite *******************/
 
 .nuove-uscite {
@@ -108,7 +100,6 @@ header {
   width: 100%;
   border-radius: 20px;
 }
-
 
 /******************* playstation-4 *******************/
 
@@ -159,7 +150,6 @@ header {
   width: 100%;
 }
 
-
 /******************* playstation-now *******************/
 
 .playstation-now {
@@ -174,8 +164,6 @@ header {
   width: 100%;
 }
 
-
-
 /******************* social-media *******************/
 
 .social-media {
@@ -188,7 +176,31 @@ header {
 
 /******************* footer *******************/
 
-
 footer {
+  padding: 50px 0;
   background-color: #00439c;
+}
+
+.mf-logo-ps-small {
+  width: 50%;
+}
+
+.mf-logo-ps-small img {
+  width: 100%;
+}
+
+.mf-globe {
+  width: 10%;
+}
+
+.mf-logo-sony {
+  width: 20%;
+}
+
+.mf-logo-sony img {
+  width: 100%;
+}
+
+.mf-style-removed {
+  list-style: none;
 }
