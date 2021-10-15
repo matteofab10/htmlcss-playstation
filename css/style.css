@@ -9,6 +9,10 @@ header {
 .header-top {
   height: 30px;
   background-color: black;
+}
+
+.header-top img {
+  height: 15px;
   padding-right: 10px;
 }
 
@@ -18,13 +22,12 @@ header {
   height: 70px;
 }
 
-.search-btn {
-  font-size: 20px;
-  padding-top: 10px;
+.mf-lens {
+  height: 25px;
 }
 
-.header-bottom ul li {
-  padding-right: 15px;
+.mf-text-black {
+  color: black !important;
 }
 
 /******************* jumbo *******************/
