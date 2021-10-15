@@ -30,6 +30,10 @@ header {
   color: black !important;
 }
 
+/* .mf-dropdown {
+  width: 100%!important;
+} */
+
 /******************* jumbo *******************/
 
 .mf-jumbotron {
@@ -55,13 +59,21 @@ header {
   border-radius: 20px;
 }
 
-.mf-box-ps5:hover img {
-  border: 2px solid blue;
+.mf-border {
+  border-radius: 20px;
 }
 
-.mf-move-up:hover img {
+.mf-padding {
+  padding: 2px;
+  cursor: pointer;
+}
+
+.mf-move-up {
+  transition: 0.5s;
+}
+
+.mf-move-up:hover {
   transform: translate(0, -10%);
-  transition: 0.5s linear;
 }
 
 .playstation-5-top h4, .playstation-5-center h4 {
@@ -88,8 +100,8 @@ header {
   width: 70%;
 }
 
-.mf-border-blue:hover {
-  border-bottom: 2px solid #3790d8;
+.mf-border-blue {
+  border-color: #3790d8!important;
 }
 
 
