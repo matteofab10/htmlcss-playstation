@@ -30,9 +30,9 @@ header {
   color: black !important;
 }
 
-/* .mf-dropdown {
-  width: 100%!important;
-} */
+.header-bottom .mf-border-btn:hover {
+  outline: solid 1px #363636;
+}
 
 /******************* jumbo *******************/
 
@@ -44,9 +44,11 @@ header {
   background-position: center;
 }
 
+.mf-jumbotron .mf-border-btn:hover {
+  outline: solid 2px #dc3545;
+}
+
 /******************* main *******************/
-
-
 /******************* playstation-5 top/center/bottom *******************/
 
 .playstation-5-top {
@@ -104,7 +106,6 @@ header {
   border-color: #3790d8!important;
 }
 
-
 /******************* it-takes-two *******************/
 
 .mf-take-two {
@@ -139,6 +140,10 @@ header {
   width: 100%;
 }
 
+.playstation-4 .mf-border-btn:hover {
+  outline: solid 1px #0d6efd;
+}
+
 
 /******************* playstation-plus *******************/
 
@@ -158,7 +163,6 @@ header {
   background-color: #d9dadc;
   color: #3167e5;
 }
-
 
 /******************* playstation-sales *******************/
 
@@ -186,6 +190,10 @@ header {
 
 .mf-box-now-2 img {
   width: 100%;
+}
+
+.playstation-now .mf-border-btn:hover {
+  outline: solid 1px #f8f9fa;
 }
 
 /******************* social-media *******************/
